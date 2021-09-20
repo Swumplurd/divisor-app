@@ -4,4 +4,5 @@
     <string name="btn_name_2">Registrarse</string>
     <string name="et_name_1">Email</string>
     <string name="et_name_2">Password</string>
+    <string name="et_name_3">Confirmar Password</string>
 </resources>

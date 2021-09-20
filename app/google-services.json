@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "370988946754",
+    "project_id": "divisor-app-39792",
+    "storage_bucket": "divisor-app-39792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370988946754:android:05fefb699c5c46dea9a4db",
+        "android_client_info": {
+          "package_name": "com.example.designtests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370988946754-7a2mj0mi0tgomtkm5jglletkb5tl8d3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOf70N7mvb5MrEp0paxLGZQnd4aoeAu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370988946754-7a2mj0mi0tgomtkm5jglletkb5tl8d3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370988946754:android:f81d0237b77ce110a9a4db",
+        "android_client_info": {
+          "package_name": "com.example.divisorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370988946754-mvo17mjeoi6b1k2fmtl3rv2sc9iv5lo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divisorapp",
+            "certificate_hash": "639e0e82d044d0f9079d63677d77c4d228aebdc2"
+          }
+        },
+        {
+          "client_id": "370988946754-7a2mj0mi0tgomtkm5jglletkb5tl8d3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOf70N7mvb5MrEp0paxLGZQnd4aoeAu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370988946754-7a2mj0mi0tgomtkm5jglletkb5tl8d3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
