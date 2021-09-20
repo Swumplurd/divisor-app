@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">DesignTests</string>
+    <string name="app_name">DivisorApp</string>
+    <string name="btn_name_1">Iniciar Sesion</string>
+    <string name="btn_name_2">Registrarse</string>
+    <string name="et_name_1">Email</string>
+    <string name="et_name_2">Password</string>
 </resources>
