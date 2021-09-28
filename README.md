@@ -7,12 +7,20 @@ DivisorApp es una aplicacion android diseñada para enseñar la operacion de div
 ## Contenidos de la aplicacion
 
 La aplicacion cuenta con diferentes interfaces como:
-+ Interfaz de Registro
-+ Interfaz de Login
-+ Interfaz de Division
++ Pantalla de Bienvenida
++ Pantalla de Registro
++ Pantalla de Login
++ Pantalla de Division
+
 
 La interfaz de registro pide unicamente un correo electronico el cual sera almacenado en Firebase para tener un control de el total de usuarios que usen la aplicacion.
+
 
 La interfaz de login realiza la autenticacion con Firebase.
 
 La interfaz de division es la aplicacion en si, donde los alumnos podran realizar la operacion y destingir los componentes de la misma.
+
+<img align="center" src="./assets/welcome_screen_mainactivity.png" height="300px">
+<img align="center" src="./assets/registrarse_screen.png" height="300px">
+<img align="center" src="./assets/iniciar_sesion.png" height="300px">
+<img align="center" src="./assets/division_screen.png" height="300px">
